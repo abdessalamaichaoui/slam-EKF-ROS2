@@ -5,9 +5,6 @@ This project aims to implement from scratch the EKF SLAM algorithm in a simple s
 ## Demo
 ![EKF SLAM Demo](EKF%20SLAM%20DEMO.gif)
 
-
-Click on the image for the video demo. The loop closure can be seen around 18 sec.
-
 ## Setup
 The Turtlebot3 Burger is used for simulation in a custom Gazebo world. The landmarks of the environment consist of cylinders whose centers serve as the landmark coordinates. 
 1. Install Turtlebot3 pacakges
