@@ -3,7 +3,7 @@
 This project aims to implement from scratch the EKF SLAM algorithm in a simple simulated environment in Gazebo and ROS2 (Galactic). The robot is the Turtlebot3, cylindrical landmarks are scattered around the environment. The center of the cylinders are inferred from the lidar scan and used as the landmark locations. In the demo below, the left panel plots the robot and landmark location while the right panels show the covariance matrix and the Gazebo environment. The loop closure is demonstrated in the demo below. 
 
 ## Demo
-![demo](EKF SLAM DEMO.gif)
+![EKF SLAM Demo](EKF%20SLAM%20DEMO.gif)
 
 
 Click on the image for the video demo. The loop closure can be seen around 18 sec.
